@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\P126\ASP\API Onion Artitecture\ApiArchitecture\Domain\bin\Debug\net5.0\DomainLayer.deps.json
+C:\Users\ASUS\Desktop\P126\ASP\API Onion Artitecture\ApiArchitecture\Domain\bin\Debug\net5.0\DomainLayer.dll
+C:\Users\ASUS\Desktop\P126\ASP\API Onion Artitecture\ApiArchitecture\Domain\bin\Debug\net5.0\ref\DomainLayer.dll
+C:\Users\ASUS\Desktop\P126\ASP\API Onion Artitecture\ApiArchitecture\Domain\bin\Debug\net5.0\DomainLayer.pdb
+C:\Users\ASUS\Desktop\P126\ASP\API Onion Artitecture\ApiArchitecture\Domain\obj\Debug\net5.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\P126\ASP\API Onion Artitecture\ApiArchitecture\Domain\obj\Debug\net5.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\P126\ASP\API Onion Artitecture\ApiArchitecture\Domain\obj\Debug\net5.0\DomainLayer.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\P126\ASP\API Onion Artitecture\ApiArchitecture\Domain\obj\Debug\net5.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\P126\ASP\API Onion Artitecture\ApiArchitecture\Domain\obj\Debug\net5.0\DomainLayer.dll
+C:\Users\ASUS\Desktop\P126\ASP\API Onion Artitecture\ApiArchitecture\Domain\obj\Debug\net5.0\ref\DomainLayer.dll
+C:\Users\ASUS\Desktop\P126\ASP\API Onion Artitecture\ApiArchitecture\Domain\obj\Debug\net5.0\DomainLayer.pdb
